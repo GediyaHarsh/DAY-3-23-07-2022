@@ -7,5 +7,3 @@ When to Use JavaScript const?
 If you want a general rule: always declare variables with const.
 
 If you think the value of the variable can change, use let.
-
-In this example, price1, price2, and total, are variables:
